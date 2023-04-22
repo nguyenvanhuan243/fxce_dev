@@ -98,8 +98,7 @@ jobs:
       - run:
           name: Production Render deploying
           command: |
-            curl -s "https://api.render.com/deploy/srv-cdh28pqen0hl21kmejo0?key=xETownUNFIg"
-            curl -s "https://api.render.com/deploy/srv-cfmdtqarrk07m3tjuua0?key=-82whFiKUkY"
+            curl -s "https://api.render.com/deploy/srv-ch1ktu5269v61f9h9qh0?key=1i3g7TZ7aHQ"
 workflows:
   version: 2
   build_and_deploy:
