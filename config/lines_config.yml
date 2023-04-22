@@ -3,16 +3,16 @@
 ###################################
 
 logo: ""                                                                        # Logo for your blog. Leave empty if you don't have one
-blog_name: "LINES"                                                              # Give your blog a meanungful name.
-title: "LINES - A simple open source blog engine, built with Rails"             # Give your blog a meaningful title. This is used for the HTML title attribute
-title_short: "LINES"                                                            # Place the name of your blog or a short title here
-short_description: "A simple open source blog engine, built with Rails"         # Short description for your blog
-meta_description: "LINES - A simple open source blog engine, built with Rails"  # meta description tag
-meta_author: "John Doe"                                                         # meta tag for author
-keywords: "Lines, Blog, Ruby on Rails"                                          # your keywords
-og_logo: "https://opoloo.github.io/lines-engine/assets/images/lines-logo.jpg"   # OpenGraph logo
+blog_name: "FXCE Developer Documentation"                                                              # Give your blog a meanungful name.
+title: "Dev Documentation"             # Give your blog a meaningful title. This is used for the HTML title attribute
+title_short: "FXCE"                                                            # Place the name of your blog or a short title here
+short_description: "FXCE Developer Documentation"         # Short description for your blog
+meta_description: "FXCE Developer Documentation"  # meta description tag
+meta_author: "Huan Capital"                                                         # meta tag for author
+keywords: "Ruby on Rails"                                          # your keywords
+og_logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9m8N070Owr52M-J16gIe58hzYSd_AU7I30ITt66ipA&s"   # OpenGraph logo
 geo_position: "50.00; 8.27"                                                     # Geo tags for position and address
-geo_address: "Opoloo, 55116 Mainz"                                              # Geo tags for position and address
+geo_address: "Viet Nam"                                              # Geo tags for position and address
 
 
 ##############
